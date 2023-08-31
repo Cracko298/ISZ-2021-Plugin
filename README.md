@@ -22,6 +22,17 @@ Numkey 0      = Infinite Weapon Durrability
 Minus Key     = No Reload
 ```
 
+## Building:
+
+### Plugin-Loader
+```
+> g++ -o PluginLoader.exe -O3 -s mainapp.cpp
+```
+### Plugin
+```
+> g++ -shared -o iszplugin.dll -O3 -s ISZ-Plugin.cpp
+```
+
 
 ## Documentation/Dumps:
 - **Want to make your own ISZ PC/Steam Plugins?**
