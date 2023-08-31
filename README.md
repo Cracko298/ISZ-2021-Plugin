@@ -4,7 +4,7 @@
 ## Downloads:
 - **Download [Plugin Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v1/PluginLoader.exe).**
 - **Download [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v1/iszplugin.dll).**
-- **Download Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
+- **Respository Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
 
 
 
