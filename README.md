@@ -7,8 +7,20 @@
 
 
 
-
-
+## Plugin Codes:
+```
+Spacebar      = Jump
+Period        = Hyper Speed
+Comma         = Reset Speed
+Up-Arrow      = Spam Days
+Down-Arrow    = Stop Spamming Days
+Numkey 6      = Infinite Status
+Numkey 7      = No Fuel/Engine Parts Needed
+Numkey 8      = Reset All Vehciles
+Numkey 9      = Infinite Ammo
+Numkey 0      = Infinite Weapon Durrability
+Minus Key     = No Reload
+```
 
 
 ## Documentation/Dumps:
