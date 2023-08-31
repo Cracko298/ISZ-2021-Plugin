@@ -1,7 +1,10 @@
 # ISZ-2021-Plugin
 - Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.
 
-
+## Downloads:
+- **Download [Plugin Loader]().**
+- **Download [ISZ-Plugin]().**
+- **Download Link for [RE-UE4SS]().**
 
 
 
