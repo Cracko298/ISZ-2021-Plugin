@@ -1,2 +1,16 @@
 # ISZ-2021-Plugin
-A plugin for Ice Station Z on PC/Steam in a compiled *.dll format. Made for use with RE-UE4SS (Lua Subsystem).
+- Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.
+
+
+
+
+
+
+
+
+
+
+
+## Documentation/Dumps:
+- **Want to make your own ISZ PC/Steam Plugins?**
+- **You can make your own using these Dump Files [Here](https://github.com/Cracko298/ISZ-Cheat-Sheet).**
