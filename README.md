@@ -28,6 +28,7 @@ Minus Key     = No Reload
 ## Building:
 
 ### Plugin-Loader
+- **A Basic Wrapper for the DLL Plugin Loading.**
 ```
 > g++ -o PluginLoader.exe -O3 -s mainapp.cpp
 ```
