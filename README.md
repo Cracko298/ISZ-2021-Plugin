@@ -7,8 +7,8 @@
 - **Respository Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
 
 ## Next Update Plans:
-- Add ***UUU4*** Support.
-- Add More Codes.
+- **Add** ***UUU4*** **Support.**
+- **Add More Codes.**
 
 ## Plugin Codes:
 ```
