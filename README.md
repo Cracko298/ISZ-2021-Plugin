@@ -6,9 +6,9 @@
 - **Download [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v1/iszplugin.dll).**
 - **Respository Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
 
-
-
-
+## Next Update Plans:
+- Add ***UUU4*** Support.
+- Add More Codes.
 
 ## Plugin Codes:
 ```
