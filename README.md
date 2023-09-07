@@ -9,6 +9,7 @@
 ## Next Update Plans:
 - **Add** ***UUU4*** **Support.**
 - **Add More Codes.**
+- **Fix the "No Reload" Code (Keybind Issue).**
 
 ## Plugin Codes:
 ```
