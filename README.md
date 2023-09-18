@@ -1,5 +1,6 @@
 # ISZ-2021-Plugin
-- Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.
+- **Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.**
+- **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZ-Injector](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)"** 
 
 ## Downloads:
 - **Download [Plugin Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v1/PluginLoader.exe) (Version v1.0)**
