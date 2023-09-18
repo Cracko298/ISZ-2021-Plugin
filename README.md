@@ -33,11 +33,18 @@ Minus Key     = No Reload
 ```
 > g++ -o PluginLoader.exe -O3 -s mainapp.cpp
 ```
-### Plugin
+### RE-UE4SS Plugin
 ```
-> g++ -shared -o iszplugin.dll -O3 -s ISZ-Plugin.cpp
+> g++ -shared -o iszplugin_lua.dll -O3 -s iszplugin_lua.cpp
 ```
-
+### UUU Plugin
+```
+> g++ -shared -o iszplugin_uuu.dll -O3 -s iszplugin_uuu.cpp
+```
+### ISZ-Injector Plugin
+```
+> g++ -shared -o iszplugin_isz_inj.dll -O3 -s iszplugin_isz_inj.cpp
+```
 
 ## Documentation/Dumps:
 - **Want to make your own ISZ PC/Steam Plugins?**
