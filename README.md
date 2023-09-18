@@ -26,6 +26,20 @@ Numkey 0      = Infinite Weapon Durrability
 Minus Key     = No Reload
 ```
 
+# FaQ:
+#### Why are there so many version of the Same Plugin?
+- **This is so the User who wishes to Install the Plugin, can do it on a plethera of Different Platforms for Hacking UE4 Games.**
+
+#### Can this do Much more than just Load the iszplugin.dll Files?
+- **Nothing is stopping you from developing your Own custom Loader with your own Codes/Cheats, just understand the MIT License.**
+
+#### Will this Get Me Banned?
+- **No, this is an External Program that in-of itself cannot get you Banned by itself.**
+- **Using a thing like "RE-UE4SS", and "UUU4" could technically get you banned if used to Cheat Online. Otherwise they are 100% Legal & Safe.**
+
+#### Will this support UMU/UML (Unreal Mod Unlocker/Loader)?
+- **The plan in the future is to fully support these platforms. But for now, only things that can load the Console are Fully Supported.**
+
 ## Building:
 
 ### Plugin-Loader
@@ -34,14 +48,17 @@ Minus Key     = No Reload
 > g++ -o PluginLoader.exe -O3 -s mainapp.cpp
 ```
 ### RE-UE4SS Plugin
+- **RE-UE4SS (UE4 Lua Subsystem) Plugin.**
 ```
 > g++ -shared -o iszplugin_lua.dll -O3 -s iszplugin_lua.cpp
 ```
-### UUU Plugin
+### UUU4 Plugin
+- **UUU4 (Universal UE4 Unlocker) Plugin.**
 ```
 > g++ -shared -o iszplugin_uuu.dll -O3 -s iszplugin_uuu.cpp
 ```
 ### ISZ-Injector Plugin
+- **ISZ-Console-Injector Plugin.**
 ```
 > g++ -shared -o iszplugin_isz_inj.dll -O3 -s iszplugin_isz_inj.cpp
 ```
