@@ -40,6 +40,9 @@ Minus Key     = No Reload
 ### Will this support UMU/UML (Unreal Mod Unlocker/Loader)?
 - **The plan in the future is to fully support these platforms. But for now, only things that can load the Console are Fully Supported.**
 
+### Do these work Online?
+- **Yes, however I strongly advise against this, cheating online can ruin the game for others. And possibly if reported, could get you VAC Banned.**
+
 ## Building:
 
 ### Plugin-Loader
