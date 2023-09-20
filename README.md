@@ -5,8 +5,8 @@
 ## Downloads:
 - **Download [Plugin Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/PluginLoader.exe) (Version v2.0).**
 - **Download The "ISZ-Injector" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/iszplugin_isz_inj.dll) (Version v2.0).**
-- **Download "The RE-UE4SS" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/iszplugin_lua.dll) (Version v2.0).**
-- **Download "The UUU4" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/iszplugin_uuu.dll) (Version v2.0).**
+- **Download The "RE-UE4SS" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/iszplugin_lua.dll) (Version v2.0).**
+- **Download The "UUU4" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/iszplugin_uuu.dll) (Version v2.0).**
 - **Respository Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
 
 ## Next Update Plans:
