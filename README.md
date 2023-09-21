@@ -54,6 +54,9 @@ Minus Key     = No Reload
 ### Why is this open-source?
 - **I love helping others get into Modding anyway I can. Albeit this is a simple cheat, but it is open-source to allow YOU to experiment and make your own Codes.**
 
+### Why "ISZ-Plugin" vs. "ISZ-Hack-Tool"?
+- **ISZ-Plugin allows YOU to be in control of your own Game. Instead of just having preset conditions and Modified Save-Games.**
+
 # Building:
 
 ### Plugin-Loader
