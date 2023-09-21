@@ -75,7 +75,6 @@ Minus Key     = No Reload
 # Credits:
 - **[@Cracko298](https://github.com/Cracko298) - Head/Lead Researcher & Developer of Plugin.**
 - **[@YT-Toaster](https://github.com/YT-Toaster) - Co-Developer & Researcher of Plugin.**
-- **[@KingBlueJay](https://github.com/Kingbluejay) - Tested-Out Plugin Offline and Online.**
-- **[@GageCover](https://github.com/gagec0420) - Tested-Out Plugin Offline & Online.**
-
+- **[@KingBlueJay](https://github.com/Kingbluejay) - Tested-Out Plugin Offline and Online Codes.**
+- **[@GageCover](https://github.com/gagec0420) - Tested-Out Plugin Offline & Online Codes.**
 - **And everyone else who helped use, and test out the plugin!**
