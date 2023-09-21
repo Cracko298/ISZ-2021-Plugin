@@ -45,7 +45,16 @@ Minus Key     = No Reload
 ### Do these work Online?
 - **Yes, however I strongly advise against this, cheating online can ruin the game for others. And possibly if reported, could get you VAC Banned.**
 
-## Building:
+### Can I use ISZ_J and/or ISZ_R?
+- **Yes! Infact both of these codes/cheats are avaliable in "THIS" Plugin! Same controls, with more functionality (Faster and Better Super Speed).**
+
+### Do you accept donations?
+- **No (subject-to-change), this is my hobby. I throughly enjoy helping out modding & hacking games. And making my meathods free and open-source for everybody.**
+
+### Why is this open-source?
+- **I love helping others get into Modding anyway I can. Albeit this is a simple cheat, but it is open-source to allow YOU to experiment and make your own Codes.**
+
+# Building:
 
 ### Plugin-Loader
 - **A Basic Wrapper for the DLL Plugin Loading.**
