@@ -10,7 +10,7 @@
 - **Respository Link for [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).**
 
 ## Next Update Plans:
-- **Add More Codes.**
+- **Add More Codes (or Add Alternate Codes).**
 - **Fix the "No Reload" Code (Keybind Issue).**
 
 ## Plugin Codes:
