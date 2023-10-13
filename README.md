@@ -79,7 +79,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 > g++ -shared -o iszplugin_uuu.dll -O3 -s iszplugin_uuu.cpp
 ```
 ### ISZ-Injector Plugin
-- **ISZ-Console-Injector Plugin.**
+- **ISZCI (ISZ Console Injector) Plugin.**
 ```
 > g++ -shared -o iszplugin_isz_inj.dll -O3 -s iszplugin_isz_inj.cpp
 ```
