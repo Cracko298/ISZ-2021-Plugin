@@ -89,6 +89,26 @@ Esc + Ctrl      = Close Plugin/Cheats
 - **Want to make your own ISZ PC/Steam Plugins?**
 - **You can make your own using these Dump Files [Here](https://github.com/Cracko298/ISZ-Cheat-Sheet).**
 
+## Call 'iszplugin.dll' files Yourself:
+### Function Names:
+```
+Credits();
+Jumping();
+Walkspeed();
+ResetWalk();
+FastTime();
+NormalTime();
+Status();
+Vehcile();
+ResetVehcile();
+InfAmmo();
+NoReleoad();
+InfWeapon();
+Invisible();
+Zoom();
+Range();
+```
+
 # Credits:
 - **[@Cracko298](https://github.com/Cracko298) - Head/Lead Researcher & Developer of Plugin.**
 - **[@YT-Toaster](https://github.com/YT-Toaster) - Co-Developer & Researcher of Plugin.**
