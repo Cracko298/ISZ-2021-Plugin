@@ -15,17 +15,22 @@
 
 ## Plugin Codes:
 ```
-Spacebar      = Jump
-Period        = Hyper Speed
-Comma         = Reset Speed
-Up-Arrow      = Spam Days
-Down-Arrow    = Stop Spamming Days
-Numkey 6      = Infinite Status
-Numkey 7      = No Fuel/Engine Parts Needed
-Numkey 8      = Reset All Vehciles
-Numkey 9      = Infinite Ammo
-Numkey 0      = Infinite Weapon Durrability
-Minus Key     = No Reload
+Spacebar        = Jump
+Period          = Hyper Speed
+Comma           = Reset Speed
+Up-Arrow        = Spam Days
+Down-Arrow      = Stop Spamming Days
+Numkey 6        = Infinite Status
+Numkey 7        = No Fuel/Engine Parts Needed
+Numkey 8        = Reset All Vehciles
+Numkey 9        = Infinite Ammo
+Numkey 0        = Infinite Weapon Durrability
+Plus Key        = No Reload
+Star Key        = Enable Zoombing on Non-Rifles
+Tilde Key       = Unlimited Weapon Range
+Forward Slash   = Go Invisible
+
+Esc + Ctrl      = Close Plugin/Cheats
 ```
 
 # FaQ:
@@ -33,7 +38,7 @@ Minus Key     = No Reload
 - **This is so the User who wishes to Install the Plugin, can do it on a plethera of Different Platforms for Hacking UE4 Games.**
 
 ### Can this do Much more than just Load the iszplugin.dll Files?
-- **Nothing is stopping you from developing your Own custom Loader with your own Codes/Cheats, just understand the MIT License.**
+- **Nothing is stopping you from developing your Own custom Loader with your own Codes/Cheats, just understand/follow the MIT License.**
 
 ### Will this Get Me Banned?
 - **No, this is an External Program that in-of itself cannot get you Banned by itself.**
