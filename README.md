@@ -1,6 +1,6 @@
 # ISZ-2021-Plugin
 - **Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.**
-- **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZ-Injector](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", and "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)".**
+- **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZCI](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", and "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)".**
 
 ## Downloads:
 - **Download [Plugin Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v2/PluginLoader.exe) (Version v3.0).**
@@ -69,17 +69,17 @@ Esc + Ctrl      = Close Plugin/Cheats
 > g++ -o PluginLoader.exe -O3 -s mainapp.cpp
 ```
 ### RE-UE4SS Plugin
-- **RE-UE4SS (UE4 Lua Subsystem) Plugin.**
+- **[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) (UE4 Lua Subsystem) Plugin.**
 ```
 > g++ -shared -o iszplugin_lua.dll -O3 -s iszplugin_lua.cpp
 ```
 ### UUU4 Plugin
-- **UUU4 (Universal UE4 Unlocker) Plugin.**
+- **[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm) (Universal UE4 Unlocker) Plugin.**
 ```
 > g++ -shared -o iszplugin_uuu.dll -O3 -s iszplugin_uuu.cpp
 ```
 ### ISZ-Injector Plugin
-- **ISZCI (ISZ Console Injector) Plugin.**
+- **[ISZCI](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector) (ISZ Console Injector) Plugin.**
 ```
 > g++ -shared -o iszplugin_isz_inj.dll -O3 -s iszplugin_isz_inj.cpp
 ```
