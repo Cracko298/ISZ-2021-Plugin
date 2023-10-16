@@ -114,3 +114,6 @@ Range();
 - **[@KingBlueJay](https://github.com/Kingbluejay) - Tested-Out Plugin Offline and Online Codes.**
 - **[@GageCover](https://github.com/gagec0420) - Tested-Out Plugin Offline & Online Codes.**
 - **And everyone else who helped use, and test out the plugin!**
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/rfddfd5567)
+
