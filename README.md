@@ -1,4 +1,4 @@
-[![paypal](https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-0.png)](https://www.paypal.me/cracko298)
+[![paypal](https://github.com/Cracko298/ISZ-2021-Plugin/assets/78656905/7f30b955-ff8b-4baf-bf5d-88c8563b9c16)](https://www.paypal.me/cracko298)
 
 # ISZ-2021-Plugin
 - **Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.**
