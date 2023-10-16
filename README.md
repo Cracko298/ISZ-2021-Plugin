@@ -1,4 +1,5 @@
 # ISZ-2021-Plugin
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cracko298)
 - **Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.**
 - **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZCI](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", and "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)".**
 
@@ -53,7 +54,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 - **Yes! Infact both of these codes/cheats are avaliable in "THIS" Plugin! Same controls, with more functionality (Faster and Better Super Speed).**
 
 ### Do you accept donations?
-- **No (subject-to-change), this is my hobby. I throughly enjoy helping out modding & hacking games. And making my meathods free and open-source for everybody.**
+- **Yes! I accept donations via PayPal.**
 
 ### Why is this open-source?
 - **I love helping others get into Modding anyway I can. Albeit this is a simple cheat, but it is open-source to allow YOU to experiment and make your own Codes.**
@@ -115,5 +116,5 @@ Range();
 - **[@GageCover](https://github.com/gagec0420) - Tested-Out Plugin Offline & Online Codes.**
 - **And everyone else who helped use, and test out the plugin!**
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/rfddfd5567)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cracko298)
 
