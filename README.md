@@ -46,7 +46,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 - **Using a thing like "RE-UE4SS", and "UUU4" could technically get you banned if used to Cheat Online. Otherwise they are 100% Legal & Safe.**
 
 ### Will this support UMU/UML (Unreal Mod Unlocker/Loader)?
-- **The plan in the future is to fully support these platforms. But for now, only things that can load the Console are Fully Supported.**
+- **As of version "v4" the release has now included Loading the ISZ-2021-Plugin "PluginLoader.exe" which is needed as it's a wrapper for the Plugin.**
 
 ### Do these work Online?
 - **Yes, however I strongly advise against this, cheating online can ruin the game for others. And possibly if reported, could get you VAC Banned.**
@@ -66,6 +66,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 # Building:
 
 ### Automatic-Loader (Requires Plugin-Loader)
+- **Supports Automatic Loading the "ISZ-2021-Plugin" with UMU, RE-UE4SS, and UML.**
 ```
 > g++ -shared -o iszplg_loader.dll -O3 -s iszplg_load.cpp
 ```
