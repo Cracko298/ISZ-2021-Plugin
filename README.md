@@ -65,6 +65,10 @@ Esc + Ctrl      = Close Plugin/Cheats
 
 # Building:
 
+### Automatic-Loader (Requires Plugin-Loader)
+```
+> g++ -shared -o iszplg_loader.dll -O3 -s iszplg_load.cpp
+```
 ### Plugin-Loader
 - **A Basic Wrapper for the DLL Plugin Loading.**
 ```
