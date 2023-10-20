@@ -67,6 +67,10 @@ Esc + Ctrl      = Close Plugin/Cheats
 ### Where do I put the "Automatic Loader" *.dll File?
 - **You can put it into the "UnrealModUnlockerPlugins" Folder using UMU, or the "Mods" Folder for both RE-UE4SS and UML. (Note: That the PluginLoader/Wrapper is required along with iszplugin).**
 
+### Does this support Switch/Linux/MacOS?
+- **No, it doesn't support HorizonOS (Switch), MacOS, or Linux Operating Systems. And likely won't ever support these platforms.**
+
+
 # Building:
 
 ### Automatic-Loader (Requires Plugin-Loader)
