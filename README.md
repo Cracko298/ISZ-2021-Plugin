@@ -116,6 +116,60 @@ Zoom();
 Range();
 ```
 
+### Example Calling:
+```cpp
+#include <iostream>
+#include <windows.h>
+#include <TlHelp32.h>
+#include <cstdlib>
+#include <string>
+
+typedef void (*HiddenFunc)();
+
+int main() {
+    const wchar_t* processName = L"PluginLoader.exe";
+    TerminateSecondInstance(processName);
+
+    HINSTANCE dllHandle = nullptr;
+    dllHandle = LoadLibrary("iszplugin_uuu.dll");
+
+    if (dllHandle == NULL) {
+        std::cerr << "Failed to load the DLL Plugin." << std::endl;
+        Sleep(2000);
+        std::exit(0);
+    }
+
+    HiddenFunc Hidden = reinterpret_cast<HiddenFunc>(GetProcAddress(dllHandle, "Invisible"));
+
+    if (Hidden == NULL) {
+        std::cerr << "Failed to Find Allocated Memory for DLL Plugin." << std::endl;
+        FreeLibrary(dllHandle);
+        Sleep(2000);
+        std::exit(0);
+    }
+
+    while (1==1){
+    if (GetAsyncKeyState(VK_DIVIDE) & 0x8000) // Forward Slash Enables Invisibility
+        {
+            Sleep(10);
+            Hidden();
+        }
+    }
+
+    if ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) && (GetAsyncKeyState(VK_CONTROL) & 0x8000))
+        {
+            break;
+        }
+  }
+
+FreeLibrary(dllHandle);
+std::exit(0);
+
+}
+
+```
+
+
 # Credits:
 - **[@Cracko298](https://github.com/Cracko298) - Head/Lead Researcher & Developer of Plugin.**
 - **[@YT-Toaster](https://github.com/YT-Toaster) - Co-Developer & Researcher of Plugin.**
