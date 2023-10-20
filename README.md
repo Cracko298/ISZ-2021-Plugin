@@ -56,7 +56,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 - **Yes! Infact both of these codes/cheats are avaliable in "THIS" Plugin! Same controls, with more functionality (Faster and Better Super Speed).**
 
 ### Do you accept donations?
-- **Yes! I accept donations via PayPal.**
+- **Yes! I accept donations via [PayPal](https://www.paypal.me/cracko298).**
 
 ### Why is this open-source?
 - **I love helping others get into Modding anyway I can. Albeit this is a simple cheat, but it is open-source to allow YOU to experiment and make your own Codes.**
