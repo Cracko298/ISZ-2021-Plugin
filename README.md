@@ -127,8 +127,6 @@ Range();
 typedef void (*HiddenFunc)();
 
 int main() {
-    const wchar_t* processName = L"PluginLoader.exe";
-    TerminateSecondInstance(processName);
 
     HINSTANCE dllHandle = nullptr;
     dllHandle = LoadLibrary("iszplugin_uuu.dll");
