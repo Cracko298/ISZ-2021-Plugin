@@ -52,7 +52,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 ### Do these work Online?
 - **Yes, however I strongly advise against this, cheating online can ruin the game for others. And possibly if reported, could get you VAC Banned.**
 
-### Can I use ISZ_J and/or ISZ_R?
+### Can I use [ISZ_J](https://github.com/Cracko298/ISZ_J) and/or [ISZ_R](https://github.com/Cracko298/ISZ_R)?
 - **Yes! Infact both of these codes/cheats are avaliable in "THIS" Plugin! Same controls, with more functionality (Faster and Better Super Speed).**
 
 ### Do you accept donations?
