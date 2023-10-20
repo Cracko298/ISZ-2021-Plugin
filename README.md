@@ -64,6 +64,9 @@ Esc + Ctrl      = Close Plugin/Cheats
 ### Why "ISZ-Plugin" vs. "ISZ-Hack-Tool"?
 - **ISZ-Plugin allows YOU to be in control of your own Game. Instead of just having preset conditions and Modified Save-Games.**
 
+### Where do I put the "Automatic Loader" *.dll File?
+- **You can put it into the "UnrealModUnlockerPlugins" Folder using UMU, or the "Mods" Folder for both RE-UE4SS and UML.**
+
 # Building:
 
 ### Automatic-Loader (Requires Plugin-Loader)
