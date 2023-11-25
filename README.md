@@ -81,7 +81,7 @@ Esc + Ctrl      = Close Plugin/Cheats
 ### Plugin-Loader
 - **A Basic Wrapper for the DLL Plugin Loading.**
 ```
-> g++ -o PluginLoader.exe -O3 -s mainapp.cpp
+> g++ -o PluginLoader.exe -O3 -s PluginWrapper.cpp
 ```
 ### RE-UE4SS Plugin
 - **[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) (UE4 Lua Subsystem) Plugin.**
