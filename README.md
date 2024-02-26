@@ -28,7 +28,7 @@ Numkey 8        = Reset All Vehciles
 Numkey 9        = Infinite Ammo
 Numkey 0        = Infinite Weapon Durrability
 Plus Key        = No Reload
-Star Key        = Enable Zoombing on Non-Rifles
+Star Key        = Enable Zooming on Non-Rifles
 Tilde Key       = Unlimited Weapon Range
 Forward Slash   = Go Invisible
 
